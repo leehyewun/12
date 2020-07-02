@@ -1,0 +1,41 @@
+#DATE_COUNTER {
+  width: fit-content;
+  height: fit-content;
+  margin-left: 0px;
+  padding-right: 10px;
+  /* display: grid; */
+  grid-template-columns: 75% 20%
+}
+
+#DATE_COUNTER_TEXT_GROUP {
+  width : fit-content;
+  height : fit-content;
+  padding-left: 0px;
+  margin-left: 0px;
+  white-space: pre;
+  text-align: left;
+}
+
+#DATE_COUNTER_TITLE {
+  font-size : 20pt;
+}
+
+#DATE_COUNTER_COUNTDOWN_TEXT {
+  font-size: 20pt;
+  line-height: 1em;
+}
+
+#DATE_COUNTER_ICON {
+  width: fit-content;
+  height: fit-content;
+  margin:auto;
+}
+
+
+#DATE_COUNTER_ICON img {
+  opacity: 0.7;
+  border-radius: 50%;
+  height: 75px;
+  width: 100px;
+  border-radius: 36px;
+} 
